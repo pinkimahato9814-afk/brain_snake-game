@@ -1,0 +1,12 @@
+def user_section():
+    main_e = turtle.Turtle()
+    s.clearscreen()
+    s1.bgpic("loginregister.png")
+    main_e.hideturtle()
+    main_e.penup()      
+    main_e.goto(100, 300)
+    main_e.color('white')
+    main_e.write("Press 'e' to goto homepage ", font =("Courier", 10, "bold"))
+    s1.listen()
+    s1.onkey(main_loop, "e")
+    s1.onclick(on_screen_click_3)
