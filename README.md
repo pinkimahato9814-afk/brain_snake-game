@@ -22,13 +22,13 @@ To enable users to customize their game by selecting difficulty levels, themes, 
 Enable flexibility by giving admin the privileges to insert questions as per the scenario and personal choices.
 
 
-#<mark>Specific objectives:<mark>
+# <mark>Specific objectives:<mark>
 
 The primary objective of this game is to create an engaging platform that not only provides entertainment  but also promotes knowledge through interactive quizzes.
 
 
 
 
-#<mark>Conclusion and Discussion<mark>
+# <mark>Conclusion and Discussion<mark>
 
 A game that can be modified as per users convenience and paving a way for interactive learning that can be used not only as an entertainment tool but also as a teaching and learning  medium. Platforms like Byjus, Midas can integrate games like this in their teaching system to enhance performance. Our project focuses on many factors but still there are some places for improvement to be considered in future.
